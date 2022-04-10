@@ -4,7 +4,7 @@ repo: zelcloud-uptime # The name of this repository
 
 sites:
   - name: Zelthy Cloud
-    url: https://www.cloud1.zelthy.com
+    url: https://cloud1.zelthy.com
   - name: PSPhere Cloud
     url: https://psphere.app
 
