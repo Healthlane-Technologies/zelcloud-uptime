@@ -1,22 +1,22 @@
 [
   {
     "name": "Zelthy Cloud",
-    "url": "https://www.cloud1.zelthy.com",
-    "icon": "https://favicons.githubusercontent.com/www.cloud1.zelthy.com",
+    "url": "https://cloud1.zelthy.com",
+    "icon": "https://favicons.githubusercontent.com/cloud1.zelthy.com",
     "slug": "zelthy-cloud",
     "status": "down",
-    "uptime": "11.79%",
-    "uptimeDay": "11.79%",
-    "uptimeWeek": "11.79%",
-    "uptimeMonth": "11.79%",
-    "uptimeYear": "11.79%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
+    "time": 905,
+    "timeDay": 905,
+    "timeWeek": 905,
+    "timeMonth": 905,
+    "timeYear": 905,
     "dailyMinutesDown": {
-      "2022-04-10": 0
+      "2022-04-10": 7
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1456,
-    "timeDay": 1456,
-    "timeWeek": 1456,
-    "timeMonth": 1456,
-    "timeYear": 1456,
+    "time": 1431,
+    "timeDay": 1431,
+    "timeWeek": 1431,
+    "timeMonth": 1431,
+    "timeYear": 1431,
     "dailyMinutesDown": {}
   }
 ]
