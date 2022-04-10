@@ -11,8 +11,6 @@ sites:
 status-website:
   baseUrl: /zelcloud-uptime
   logoUrl: https://zelthy-initium-production-static.s3.amazonaws.com/static/zelthymain/images/og-image.jpeg
-  name: Zelthy Cloud Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status
       href: /
