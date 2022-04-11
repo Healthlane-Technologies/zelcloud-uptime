@@ -9,7 +9,8 @@ sites:
     url: https://psphere.app
 
 status-website:
-  baseUrl: /zelcloud-uptime
+#   baseUrl: /zelcloud-uptime
+  cname: status.zelthy.com
   logoUrl: https://zelthy-initium-production-static.s3.amazonaws.com/static/zelthymain/images/og-image.jpeg
   navbar:
     - title: Status
